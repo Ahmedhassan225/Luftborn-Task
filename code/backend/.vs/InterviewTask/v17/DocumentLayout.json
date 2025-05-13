@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Projects\\luftborn Interview Task\\code\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A690D61D-3EB6-4029-A940-940723391516}|WebAPI\\WebAPI.csproj|f:\\projects\\luftborn interview task\\code\\backend\\webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A690D61D-3EB6-4029-A940-940723391516}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A690D61D-3EB6-4029-A940-940723391516}|WebAPI\\WebAPI.csproj|f:\\projects\\luftborn interview task\\code\\backend\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A690D61D-3EB6-4029-A940-940723391516}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A690D61D-3EB6-4029-A940-940723391516}|WebAPI\\WebAPI.csproj|f:\\projects\\luftborn interview task\\code\\backend\\webapi\\controllers\\lookupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A690D61D-3EB6-4029-A940-940723391516}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\lookupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A690D61D-3EB6-4029-A940-940723391516}|WebAPI\\WebAPI.csproj|f:\\projects\\luftborn interview task\\code\\backend\\webapi\\controllers\\_base\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A690D61D-3EB6-4029-A940-940723391516}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\_base\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A690D61D-3EB6-4029-A940-940723391516}|WebAPI\\WebAPI.csproj|f:\\projects\\luftborn interview task\\code\\backend\\webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A690D61D-3EB6-4029-A940-940723391516}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\Projects\\luftborn Interview Task\\code\\backend\\WebAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.Development.json",
+              "ToolTip": "F:\\Projects\\luftborn Interview Task\\code\\backend\\WebAPI\\appsettings.Development.json",
+              "RelativeToolTip": "WebAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T22:17:18.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "F:\\Projects\\luftborn Interview Task\\code\\backend\\WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "F:\\Projects\\luftborn Interview Task\\code\\backend\\WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T22:14:37.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "F:\\Projects\\luftborn Interview Task\\code\\backend\\WebAPI\\Controllers\\_Base\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\_Base\\BaseApiController.cs",
+              "ToolTip": "F:\\Projects\\luftborn Interview Task\\code\\backend\\WebAPI\\Controllers\\_Base\\BaseApiController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\_Base\\BaseApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T22:14:12.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LookupController.cs",
+              "DocumentMoniker": "F:\\Projects\\luftborn Interview Task\\code\\backend\\WebAPI\\Controllers\\LookupController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\LookupController.cs",
+              "ToolTip": "F:\\Projects\\luftborn Interview Task\\code\\backend\\WebAPI\\Controllers\\LookupController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\LookupController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T22:14:11.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "F:\\Projects\\luftborn Interview Task\\code\\backend\\WebAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "F:\\Projects\\luftborn Interview Task\\code\\backend\\WebAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T22:14:06.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 921,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+<mat-toolbar color="primary">
+    <span class="mx-4">Simple Inventory</span>
+    <section *ngIf="isLoggedIn$ | async" class="navbar-container">
+      <ul class="navbar-nav flex-row">
+        <li class="nav-item mx-2">
+          <a class="nav-link text-light" id="accessManagementDropMenu" routerLink="/" aria-haspopup="true" aria-expanded="false">
+            <span>Inventory</span>
+          </a>
+        </li>
+        <li class="nav-item mx-2">
+          <div class="dropdown-menu dropdown-menu-ver dropdown-menu-end dropdown-menu-scroll borderRadius10"
+            aria-labelledby="accessManagementDropMenu">
+            <a class="dropdown-item" routerLink="/report/product">Products</a>
+          </div>
+        </li>
+      </ul>
+      
+      <div class="logout-container">
+        <button class="logout-btn" (click)="logout()">Logout</button>
+      </div>
+    </section>
+  </mat-toolbar>
